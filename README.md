@@ -151,31 +151,6 @@ ecommerce_system/
     ├── products.json
     ├── customers.json
     └── orders.json
-```
-
----
-
-# How to Run
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-management-system.git
-```
-
-### Move into the project folder
-
-```bash
-cd ecommerce-management-system
-```
-
-### Run the project
-
-```bash
-python main.py
-```
-
----
 
 # Project Workflow
 
@@ -223,12 +198,3 @@ Some features that can be added in the future:
 - GUI using Tkinter or PyQt
 - Web Version using Django or Flask
 
----
-
-# Author
-
-**Rohit Parasrampuria**
-
-Data Engineering Enthusiast | Python | SQL | Snowflake | Azure | Databricks
-
-If you found this project helpful, feel free to ⭐ this repository.
